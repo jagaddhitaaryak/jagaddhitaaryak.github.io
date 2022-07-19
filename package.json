@@ -1,24 +1,15 @@
 {
-  "name": "simplefolio",
+  "name": "myportfolio",
   "version": "1.0.1",
   "private": "true",
-  "description": "A clean, beautiful and responsive portfolio template for Developers!",
+  "description": "Portfolio Jagaddhita Arya Koswara",
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
     "build": "parcel build"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/cobidev/simplefolio"
-  },
   "keywords": [],
-  "author": "Jacobo Martinez",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/cobidev/simplefolio/issues"
-  },
-  "homepage": "https://github.com/cobidev/simplefolio#readme",
+  "author": "Schway",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.0.1",
     "parcel": "^2.0.1",
